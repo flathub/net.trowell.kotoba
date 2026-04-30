@@ -29,8 +29,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.gnome.org/haydn/kotoba.git",
-                    "tag": "0.2.0",
-                    "commit": "a5878fe731946a20c78bde722832fbb5f090a287"
+                    "tag": "0.2.1",
+                    "commit": "0a320d1257ba22c0e41afefcedf955297e63a50d"
                 },
                 {
                     "type": "inline",
