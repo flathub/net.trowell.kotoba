@@ -1,7 +1,7 @@
 {
     "id" : "net.trowell.kotoba",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "50",
+    "runtime-version" : "51",
     "sdk" : "org.gnome.Sdk",
     "sdk-extensions" : [
         "org.freedesktop.Sdk.Extension.rust-stable"
@@ -29,8 +29,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.gnome.org/haydn/kotoba.git",
-                    "tag": "0.2.2",
-                    "commit": "adda6c33e551fd30c6a41096a3494edb1713111a"
+                    "tag": "0.3.0",
+                    "commit": "198abcdca36f34fde73b5433da745b4f29c37863"
                 },
                 {
                     "type": "inline",
